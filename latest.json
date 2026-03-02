@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "downloads": {
+    "win-x64": "https://releases.slog.app/.../slog-importer-1.0.0-win-x64.zip",
+    "win-ia32": "https://releases.slog.app/.../slog-importer-1.0.0-win-ia32.zip",
+    "darwin-x64": "https://releases.slog.app/.../slog-importer-1.0.0-darwin-x64.zip",
+    "darwin-arm64": "https://releases.slog.app/.../slog-importer-1.0.0-darwin-arm64.zip",
+    "linux-x64": "https://releases.slog.app/.../slog-importer-1.0.0-linux-x64.zip"
+  },
+  "changelog": "首次发布"
+}
